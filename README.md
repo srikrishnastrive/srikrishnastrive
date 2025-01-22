@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @srikrishnastrive
 
 - 👀 I’m passionate about software development, with a strong focus on frontend technologies.
-- 🌱 I’m currently enhancing my skills in **Node.js** and exploring advanced frontend frameworks.
+- 🌱 I’m currently enhancing my skills in **React and Next.js** and exploring advanced frontend frameworks.
 - 💼 I’m looking for a **Frontend Developer** role where I can contribute to creating seamless and interactive user experiences.
 - 💻 Skills:  
   - **Frontend:** HTML, CSS, Bootstrap, Material UI, JavaScript, Dart, TypeScript  
