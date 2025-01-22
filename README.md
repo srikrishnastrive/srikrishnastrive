@@ -6,8 +6,10 @@
 - 💻 Skills:  
   - **Frontend:** HTML, CSS, Bootstrap, Material UI, JavaScript, Dart, TypeScript  
   - **Frameworks/Libraries:** ReactJS, Flutter
+  - **State management:** Bloc,Zustand,ContextApi,React Query,Redux
+  -- **Database:** Graphql,Sql,MangoDB
 - 💞️ I’m open to collaborating on projects involving modern web and mobile applications.
-- 📫 How to reach me: [Add your email or social media links here].
+- 📫 How to reach me: [msrikrishna2000@gmail.com].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving challenging coding problems and keeping up with the latest tech trends!
 
