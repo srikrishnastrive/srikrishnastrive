@@ -5,9 +5,10 @@
 - 💼 I’m looking for a **Frontend Developer** role where I can contribute to creating seamless and interactive user experiences.
 - 💻 Skills:  
   - **Frontend:** HTML, CSS, Bootstrap, Material UI, JavaScript, Dart, TypeScript  
-  - **Frameworks/Libraries:** ReactJS, Flutter
-  - **State management:** Bloc,Zustand,ContextApi,React Query,Redux
-  -- **Database:** Graphql,Sql,MangoDB
+  - **Frameworks/Libraries:** ReactJS, Flutter  
+  - **State Management:** Bloc, Zustand, Context API, React Query, Redux  
+  - **Backend & Databases:** Node.js, GraphQL, SQL, MongoDB  
+  - **DevOps & Deployment:** Docker, AWS, Cloudinary  
 - 💞️ I’m open to collaborating on projects involving modern web and mobile applications.
 - 📫 How to reach me: [msrikrishna2000@gmail.com].
 - 😄 Pronouns: He/Him
