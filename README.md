@@ -5,7 +5,7 @@
 - 💼 I’m looking for a **Frontend Developer** role where I can contribute to creating seamless and interactive user experiences.
 - 💻 Skills:  
   - **Frontend:** HTML, CSS, Bootstrap, Material UI, JavaScript, Dart, TypeScript  
-  - **Frameworks/Libraries:** ReactJS, Flutter  
+  - **Frameworks/Libraries:** ReactJS, Flutter,Firebase
   - **State Management:** Bloc, Zustand, Context API, React Query, Redux  
   - **Backend & Databases:** Node.js, GraphQL, SQL, MongoDB  
   - **DevOps & Deployment:** Docker, AWS, Cloudinary  
